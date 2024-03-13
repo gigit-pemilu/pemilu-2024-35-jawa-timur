@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 226
+    bar [226, 2, 50]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 226
+    "2" : 2
+    "3" : 50
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 226   | [226][p-1]  | 81,29      |
+| 2   | PRABOWO GIBRAN | 2     | [2][p-2]    | 0,72       |
+| 3   | GANJAR MAHFUD  | 50    | [50][p-3]   | 17,99      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/27-sampang/sub/11-sokobanah/sub/2002-tobai-tengah/sub/003-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/27-sampang/sub/11-sokobanah/sub/2002-tobai-tengah/sub/003-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/27-sampang/sub/11-sokobanah/sub/2002-tobai-tengah/sub/003-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/5531/pemilu/ppwp/35/27/11/20/02/3527112002003-20240214-190836--d2db8a71-269c-4f42-9613-960efd605fd8.jpg
+
+https://sirekap-obj-formc.kpu.go.id/5531/pemilu/ppwp/35/27/11/20/02/3527112002003-20240214-191137--6f5b299a-636e-419e-a303-f996d193d4ac.jpg
+
+https://sirekap-obj-formc.kpu.go.id/5531/pemilu/ppwp/35/27/11/20/02/3527112002003-20240214-191252--be405ff2-738d-475c-92bc-369afc1c4722.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-17 10:00:02 |
+
+
+

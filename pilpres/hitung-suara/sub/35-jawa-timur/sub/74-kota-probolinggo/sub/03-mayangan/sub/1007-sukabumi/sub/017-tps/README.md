@@ -1,0 +1,19 @@
+# Hasil
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/47d5/pemilu/ppwp/35/74/03/10/07/3574031007017-20240301-123424--5324047f-70a7-4ced-a778-5b3a6ae6aca5.jpg
+
+https://sirekap-obj-formc.kpu.go.id/47d5/pemilu/ppwp/35/74/03/10/07/3574031007017-20240301-123504--88d50504-7819-4c30-b56f-53cd0345bc03.jpg
+
+https://sirekap-obj-formc.kpu.go.id/47d5/pemilu/ppwp/35/74/03/10/07/3574031007017-20240301-123533--53db6b0a-2d9f-400a-9b23-dbb07154715b.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-03-01 13:00:00 |
+
+
+

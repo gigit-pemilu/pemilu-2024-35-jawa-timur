@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 127
+    bar [15, 127, 45]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 15
+    "2" : 127
+    "3" : 45
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 15    | [15][p-1]   | 8,02       |
+| 2   | PRABOWO GIBRAN | 127   | [127][p-2]  | 67,91      |
+| 3   | GANJAR MAHFUD  | 45    | [45][p-3]   | 24,06      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/22-bojonegoro/sub/10-baureno/sub/2025-lebaksari/sub/007-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/22-bojonegoro/sub/10-baureno/sub/2025-lebaksari/sub/007-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/22-bojonegoro/sub/10-baureno/sub/2025-lebaksari/sub/007-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/b436/pemilu/ppwp/35/22/10/20/25/3522102025007-20240214-233759--bc6839d7-b547-49d2-8f4f-de4822b41636.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b436/pemilu/ppwp/35/22/10/20/25/3522102025007-20240217-190226--ab67b87a-86ac-4eb8-bd32-07fa36b360dc.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b436/pemilu/ppwp/35/22/10/20/25/3522102025007-20240215-013500--2bcbadce-5a05-4d99-a7d7-12d1882be000.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-24 22:31:28 |
+
+
+

@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 97
+    bar [83, 97, 41]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 83
+    "2" : 97
+    "3" : 41
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 83    | [83][p-1]   | 37,56      |
+| 2   | PRABOWO GIBRAN | 97    | [97][p-2]   | 43,89      |
+| 3   | GANJAR MAHFUD  | 41    | [41][p-3]   | 18,55      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/73-kota-malang/sub/05-lowokwaru/sub/1001-tunggulwulung/sub/022-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/73-kota-malang/sub/05-lowokwaru/sub/1001-tunggulwulung/sub/022-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/73-kota-malang/sub/05-lowokwaru/sub/1001-tunggulwulung/sub/022-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/f4a8/pemilu/ppwp/35/73/05/10/01/3573051001022-20240215-190058--d58adf23-3fa2-47a9-9b1e-8bf74b7eb40d.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f4a8/pemilu/ppwp/35/73/05/10/01/3573051001022-20240214-201426--ed118e87-6d0f-4e49-8dfd-0b1c47497d1b.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f4a8/pemilu/ppwp/35/73/05/10/01/3573051001022-20240214-234437--dcd180cf-31c6-485a-992a-9e9fc600f70f.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 22:30:27 |
+
+
+

@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 194
+    bar [194, 50, 45]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 194
+    "2" : 50
+    "3" : 45
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 194   | [194][p-1]  | 67,13      |
+| 2   | PRABOWO GIBRAN | 50    | [50][p-2]   | 17,30      |
+| 3   | GANJAR MAHFUD  | 45    | [45][p-3]   | 15,57      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/28-pamekasan/sub/11-batumarmar/sub/2010-blaban/sub/009-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/28-pamekasan/sub/11-batumarmar/sub/2010-blaban/sub/009-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/28-pamekasan/sub/11-batumarmar/sub/2010-blaban/sub/009-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/ca0f/pemilu/ppwp/35/28/11/20/10/3528112010009-20240214-193029--574e93e6-9ca5-4108-a8c4-b77ec0d369fa.jpg
+
+https://sirekap-obj-formc.kpu.go.id/ca0f/pemilu/ppwp/35/28/11/20/10/3528112010009-20240214-193034--a5ad66b0-0c5c-444d-86a0-2865737fa19d.jpg
+
+https://sirekap-obj-formc.kpu.go.id/ca0f/pemilu/ppwp/35/28/11/20/10/3528112010009-20240214-193039--70cdfa0f-62b9-44eb-8d3f-7da763067ed5.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-24 22:31:28 |
+
+
+

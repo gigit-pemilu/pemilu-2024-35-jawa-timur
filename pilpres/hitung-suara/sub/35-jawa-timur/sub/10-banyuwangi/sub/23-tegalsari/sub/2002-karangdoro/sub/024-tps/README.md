@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 143
+    bar [21, 143, 54]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 21
+    "2" : 143
+    "3" : 54
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 21    | [21][p-1]   | 9,63       |
+| 2   | PRABOWO GIBRAN | 143   | [143][p-2]  | 65,60      |
+| 3   | GANJAR MAHFUD  | 54    | [54][p-3]   | 24,77      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/10-banyuwangi/sub/23-tegalsari/sub/2002-karangdoro/sub/024-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/10-banyuwangi/sub/23-tegalsari/sub/2002-karangdoro/sub/024-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/10-banyuwangi/sub/23-tegalsari/sub/2002-karangdoro/sub/024-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/2469/pemilu/ppwp/35/10/23/20/02/3510232002024-20240214-233114--690aa283-2e79-40fb-925b-0033deb3532a.jpg
+
+https://sirekap-obj-formc.kpu.go.id/2469/pemilu/ppwp/35/10/23/20/02/3510232002024-20240214-233159--90210c8d-e815-4594-97be-1c39bb5bf924.jpg
+
+https://sirekap-obj-formc.kpu.go.id/2469/pemilu/ppwp/35/10/23/20/02/3510232002024-20240214-233239--1fc097b2-35e0-45ae-8dc5-f4bb4cf9a82a.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-25 16:00:00 |
+
+
+

@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 140
+    bar [35, 140, 27]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 35
+    "2" : 140
+    "3" : 27
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 35    | [35][p-1]   | 17,33      |
+| 2   | PRABOWO GIBRAN | 140   | [140][p-2]  | 69,31      |
+| 3   | GANJAR MAHFUD  | 27    | [27][p-3]   | 13,37      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/09-jember/sub/21-sumbersari/sub/1003-kranjingan/sub/029-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/09-jember/sub/21-sumbersari/sub/1003-kranjingan/sub/029-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/09-jember/sub/21-sumbersari/sub/1003-kranjingan/sub/029-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/80a3/pemilu/ppwp/35/09/21/10/03/3509211003029-20240215-020037--f8699495-ab56-4291-9b64-b4bace00549f.jpg
+
+https://sirekap-obj-formc.kpu.go.id/80a3/pemilu/ppwp/35/09/21/10/03/3509211003029-20240215-020229--988b7692-1a68-49ec-8806-9a421da69f3a.jpg
+
+https://sirekap-obj-formc.kpu.go.id/80a3/pemilu/ppwp/35/09/21/10/03/3509211003029-20240215-020244--fd7012f4-ce7b-410a-8375-c8edcb29d303.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 22:30:27 |
+
+
+

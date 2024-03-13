@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 120
+    bar [61, 26, 120]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 61
+    "2" : 26
+    "3" : 120
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 61    | [61][p-1]   | 29,47      |
+| 2   | PRABOWO GIBRAN | 26    | [26][p-2]   | 12,56      |
+| 3   | GANJAR MAHFUD  | 120   | [120][p-3]  | 57,97      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/29-sumenep/sub/09-guluk-guluk/sub/2011-payudan-karangsokon/sub/005-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/29-sumenep/sub/09-guluk-guluk/sub/2011-payudan-karangsokon/sub/005-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/29-sumenep/sub/09-guluk-guluk/sub/2011-payudan-karangsokon/sub/005-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/719e/pemilu/ppwp/35/29/09/20/11/3529092011005-20240225-153651--d17a36ed-da8e-44d6-b27c-e8ed46d1fe18.jpg
+
+https://sirekap-obj-formc.kpu.go.id/719e/pemilu/ppwp/35/29/09/20/11/3529092011005-20240225-153831--cdad6bd8-5501-4c3b-8170-29b5525b5041.jpg
+
+https://sirekap-obj-formc.kpu.go.id/719e/pemilu/ppwp/35/29/09/20/11/3529092011005-20240225-153857--baf60b38-23d9-46af-9582-9cf11bf06151.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-28 19:00:00 |
+
+
+

@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 156
+    bar [34, 156, 34]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 34
+    "2" : 156
+    "3" : 34
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 34    | [34][p-1]   | 15,18      |
+| 2   | PRABOWO GIBRAN | 156   | [156][p-2]  | 69,64      |
+| 3   | GANJAR MAHFUD  | 34    | [34][p-3]   | 15,18      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/25-gresik/sub/05-duduksampeyan/sub/2013-petisbenem/sub/006-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/25-gresik/sub/05-duduksampeyan/sub/2013-petisbenem/sub/006-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/25-gresik/sub/05-duduksampeyan/sub/2013-petisbenem/sub/006-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/110a/pemilu/ppwp/35/25/05/20/13/3525052013006-20240221-143721--a0c31b8b-4db6-48ae-b5b8-4c0f6a40f54c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/110a/pemilu/ppwp/35/25/05/20/13/3525052013006-20240221-143818--fda84539-9f87-472a-825a-08132667431e.jpg
+
+https://sirekap-obj-formc.kpu.go.id/110a/pemilu/ppwp/35/25/05/20/13/3525052013006-20240221-143852--9b5518e9-16fc-43d0-ac65-a4763f92b957.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-24 22:31:28 |
+
+
+

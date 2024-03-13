@@ -1,0 +1,82 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 135
+    bar [35, 135, 47]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 35
+    "2" : 135
+    "3" : 47
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 35    | [35][p-1]   | 16,13      |
+| 2   | PRABOWO GIBRAN | 135   | [135][p-2]  | 62,21      |
+| 3   | GANJAR MAHFUD  | 47    | [47][p-3]   | 21,66      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/77-kota-madiun/sub/03-taman/sub/1004-kuncen/sub/004-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/77-kota-madiun/sub/03-taman/sub/1004-kuncen/sub/004-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/77-kota-madiun/sub/03-taman/sub/1004-kuncen/sub/004-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/b946/pemilu/ppwp/35/77/03/10/04/3577031004004-20240214-220615--fd3da970-38be-42dd-9f3b-44b940eb7ab0.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b946/pemilu/ppwp/35/77/03/10/04/3577031004004-20240214-220639--d8df4c14-3061-4db4-8391-76b70e1c8acd.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b946/pemilu/ppwp/35/77/03/10/04/3577031004004-20240214-220657--3f4887d7-24e0-43c0-b840-d0284ec26373.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-20 00:00:00 |
+
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **267**.
+ * L: **130**.
+ * P: **137**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **209**.
+ * L: **102**.
+ * P: **107**.
+
+Jumlah pengguna hak pilih dalam DPTb: **5**.
+ * L: **1**.
+ * P: **4**.
+
+Jumlah pengguna hak pilih dalam DPK: **6**.
+ * L: **3**.
+ * P: **3**.
+
+Jumlah pengguna hak pilih: **220**.
+ * L: **106**.
+ * P: **114**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **217**.
+
+JUMLAH SUARA TIDAK SAH: **3**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **220**.
+
+

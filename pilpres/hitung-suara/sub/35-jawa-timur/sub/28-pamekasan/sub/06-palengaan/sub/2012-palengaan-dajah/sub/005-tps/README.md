@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 236
+    bar [236, 48, 3]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 236
+    "2" : 48
+    "3" : 3
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 236   | [236][p-1]  | 82,23      |
+| 2   | PRABOWO GIBRAN | 48    | [48][p-2]   | 16,72      |
+| 3   | GANJAR MAHFUD  | 3     | [3][p-3]    | 1,05       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/28-pamekasan/sub/06-palengaan/sub/2012-palengaan-dajah/sub/005-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/28-pamekasan/sub/06-palengaan/sub/2012-palengaan-dajah/sub/005-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/28-pamekasan/sub/06-palengaan/sub/2012-palengaan-dajah/sub/005-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/2ebd/pemilu/ppwp/35/28/06/20/12/3528062012005-20240214-222216--9ba34a7b-61b7-4e58-aecb-f70050549076.jpg
+
+https://sirekap-obj-formc.kpu.go.id/2ebd/pemilu/ppwp/35/28/06/20/12/3528062012005-20240215-092250--87530c4f-5427-4f32-a589-13ba1c751151.jpg
+
+https://sirekap-obj-formc.kpu.go.id/2ebd/pemilu/ppwp/35/28/06/20/12/3528062012005-20240214-200921--5aa66173-a8a2-49d6-a1a4-559182b049f8.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-17 16:00:02 |
+
+
+

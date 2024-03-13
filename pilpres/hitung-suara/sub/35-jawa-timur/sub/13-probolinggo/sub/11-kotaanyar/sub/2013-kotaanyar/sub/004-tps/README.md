@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 169
+    bar [55, 169, 26]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 55
+    "2" : 169
+    "3" : 26
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 55    | [55][p-1]   | 22,00      |
+| 2   | PRABOWO GIBRAN | 169   | [169][p-2]  | 67,60      |
+| 3   | GANJAR MAHFUD  | 26    | [26][p-3]   | 10,40      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/13-probolinggo/sub/11-kotaanyar/sub/2013-kotaanyar/sub/004-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/13-probolinggo/sub/11-kotaanyar/sub/2013-kotaanyar/sub/004-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/13-probolinggo/sub/11-kotaanyar/sub/2013-kotaanyar/sub/004-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/932c/pemilu/ppwp/35/13/11/20/13/3513112013004-20240214-232021--64845357-70e0-43fe-8ec0-6ad48dbe9dad.jpg
+
+https://sirekap-obj-formc.kpu.go.id/932c/pemilu/ppwp/35/13/11/20/13/3513112013004-20240214-232027--f3bec569-1d36-42ca-8fbd-a945cc02ca0c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/932c/pemilu/ppwp/35/13/11/20/13/3513112013004-20240214-232035--53db9f44-236e-4e79-9bd5-8ed80bb7e778.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-22 22:00:00 |
+
+
+

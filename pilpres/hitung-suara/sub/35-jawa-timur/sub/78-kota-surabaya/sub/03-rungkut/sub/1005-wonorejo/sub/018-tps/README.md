@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 110
+    bar [54, 110, 37]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 54
+    "2" : 110
+    "3" : 37
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 54    | [54][p-1]   | 26,87      |
+| 2   | PRABOWO GIBRAN | 110   | [110][p-2]  | 54,73      |
+| 3   | GANJAR MAHFUD  | 37    | [37][p-3]   | 18,41      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/78-kota-surabaya/sub/03-rungkut/sub/1005-wonorejo/sub/018-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/78-kota-surabaya/sub/03-rungkut/sub/1005-wonorejo/sub/018-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/78-kota-surabaya/sub/03-rungkut/sub/1005-wonorejo/sub/018-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/6520/pemilu/ppwp/35/78/03/10/05/3578031005018-20240215-021907--19b0cead-2400-4a54-b686-bcc2dc6d2483.jpg
+
+https://sirekap-obj-formc.kpu.go.id/6520/pemilu/ppwp/35/78/03/10/05/3578031005018-20240215-012150--36ecfcc5-07f2-4173-b69e-b15b377cb577.jpg
+
+https://sirekap-obj-formc.kpu.go.id/6520/pemilu/ppwp/35/78/03/10/05/3578031005018-20240215-012242--8f4bb8d5-8e69-4661-8a3b-9fe7f4dcc879.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 13:00:29 |
+
+
+

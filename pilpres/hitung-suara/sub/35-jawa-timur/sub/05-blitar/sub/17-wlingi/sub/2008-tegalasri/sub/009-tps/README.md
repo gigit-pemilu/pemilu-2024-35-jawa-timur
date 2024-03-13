@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 153
+    bar [24, 153, 46]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 24
+    "2" : 153
+    "3" : 46
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 24    | [24][p-1]   | 10,76      |
+| 2   | PRABOWO GIBRAN | 153   | [153][p-2]  | 68,61      |
+| 3   | GANJAR MAHFUD  | 46    | [46][p-3]   | 20,63      |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/05-blitar/sub/17-wlingi/sub/2008-tegalasri/sub/009-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/05-blitar/sub/17-wlingi/sub/2008-tegalasri/sub/009-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/05-blitar/sub/17-wlingi/sub/2008-tegalasri/sub/009-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/94a0/pemilu/ppwp/35/05/17/20/08/3505172008009-20240215-032307--d44adb4b-5a42-4e58-ad50-dc1732a12973.jpg
+
+https://sirekap-obj-formc.kpu.go.id/94a0/pemilu/ppwp/35/05/17/20/08/3505172008009-20240215-031929--54a69e9b-8a66-4925-bacf-d74ad0f3becb.jpg
+
+https://sirekap-obj-formc.kpu.go.id/94a0/pemilu/ppwp/35/05/17/20/08/3505172008009-20240215-032056--623fbad1-1dc3-4aa8-b2fd-b1eab5cfe030.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-15 12:00:28 |
+
+
+
