@@ -1,0 +1,62 @@
+# Menu Wilayah
+
+## Link
+
+[BANGKOK](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2018-bangkok)
+ | 
+[BAPUHBANDUNG](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2021-bapuhbandung)
+ | 
+[BAPUHBARU](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2020-bapuhbaru)
+ | 
+[BEGAN](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2008-began)
+ | 
+[DUDUKLOR](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2013-duduklor)
+ | 
+[DUKUHTUNGGAL](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2024-dukuhtunggal)
+ | 
+[GEMPOLPENDOWO](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2003-gempolpendowo)
+ | 
+[GLAGAH](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2014-glagah)
+ | 
+[JATIRENGGO](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2019-jatirenggo)
+ | 
+[KARANGAGUNG](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2017-karangagung)
+ | 
+[KARANGTURI](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2028-karangturi)
+ | 
+[KENTONG](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2010-kentong)
+ | 
+[KONANG](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2023-konang)
+ | 
+[MARGOANYAR](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2007-margoanyar)
+ | 
+[MEDANG](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2012-medang)
+ | 
+[MELUNTUR](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2022-meluntur)
+ | 
+[MELUWUR](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2029-meluwur)
+ | 
+[MENDOGO](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2009-mendogo)
+ | 
+[MENGANTI](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2006-menganti)
+ | 
+[MOROCALAN](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2002-morocalan)
+ | 
+[PANGGANG](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2025-panggang)
+ | 
+[PASI](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2004-pasi)
+ | 
+[RAYUNGGUMUK](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2005-rayunggumuk)
+ | 
+[SOKO](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2001-soko)
+ | 
+[SUDANGAN](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2011-sudangan)
+ | 
+[TANGGUNGPRIGEL](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2016-tanggungprigel)
+ | 
+[WANGEN](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2015-wangen)
+ | 
+[WEDORO](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2027-wedoro)
+ | 
+[WONOREJO](https://github.com/gigit-pemilu/pemilu-2024-35-jawa-timur/tree/main/pileg-dpr/hitung-suara/sub/35-jawa-timur/sub/24-lamongan/sub/26-glagah/sub/2026-wonorejo)
+
