@@ -1,41 +1,10 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 182
-    bar [39, 182, 12]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 39
-    "2" : 182
-    "3" : 12
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 39    | [39][p-1]   | 16,74      |
-| 2   | PRABOWO GIBRAN | 182   | [182][p-2]  | 78,11      |
-| 3   | GANJAR MAHFUD  | 12    | [12][p-3]   | 5,15       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/13-probolinggo/sub/21-sumberasih/sub/2005-pohsangit-leres/sub/001-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/13-probolinggo/sub/21-sumberasih/sub/2005-pohsangit-leres/sub/001-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/35-jawa-timur/sub/13-probolinggo/sub/21-sumberasih/sub/2005-pohsangit-leres/sub/001-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/0d36/pemilu/ppwp/35/13/21/20/05/3513212005001-20240219-202947--9e8ff9d5-2992-4b8e-aec5-9b35cba8f05d.jpg
+https://sirekap-obj-formc.kpu.go.id/0d36/pemilu/ppwp/35/13/21/20/05/3513212005001-20240314-130700--8d4837a8-addd-4968-8873-7933720d6cf2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/0d36/pemilu/ppwp/35/13/21/20/05/3513212005001-20240219-202949--9c2a434a-adf4-4088-8bd3-96b80408ee08.jpg
+https://sirekap-obj-formc.kpu.go.id/0d36/pemilu/ppwp/35/13/21/20/05/3513212005001-20240314-130701--4fa94464-8d60-4f86-ab60-e79c17db93c7.jpg
 
 https://sirekap-obj-formc.kpu.go.id/0d36/pemilu/ppwp/35/13/21/20/05/3513212005001-20240219-202948--2516eedb-88e0-4675-91f3-9065b5abe42a.jpg
 
@@ -44,7 +13,7 @@ https://sirekap-obj-formc.kpu.go.id/0d36/pemilu/ppwp/35/13/21/20/05/351321200500
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-20 09:00:00 |
+| Time Stamp | 2024-03-14 13:30:00 |
 
 
 ## DATA PEMILIH TETAP

@@ -13,7 +13,7 @@ https://sirekap-obj-formc.kpu.go.id/4bf0/pemilu/ppwp/35/03/10/20/02/350310200200
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-07 17:00:00 |
+| Time Stamp | 2024-03-13 18:30:00 |
 
 
 ## DATA PEMILIH TETAP
